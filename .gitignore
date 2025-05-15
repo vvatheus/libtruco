@@ -1,0 +1,11 @@
+# Build Directories
+build/
+build[.-_]*/
+out
+cmake/
+cmake[.-_]*/
+
+# Editors
+.vs/
+.vscode/
+.idea/
